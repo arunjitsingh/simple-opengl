@@ -1,4 +1,4 @@
 simple-opengl
 =============
 
-Helps to start with very basic OpenGL programs
+This is some very basic OpenGL stuff. I'll use this to try out various things in OpenGL. Mostly, it exists to help me learn.
